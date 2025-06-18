@@ -43,4 +43,8 @@ update 3
 update before rebase
 
 
+<<<<<<< HEAD
 try this update in readme file
+=======
+this is a readme file
+>>>>>>> 4dbfbe721cb64b650ccb5e3c79edf958e21c3f01
